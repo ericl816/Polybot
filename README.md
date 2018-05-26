@@ -7,6 +7,7 @@
 - Speech-to-text recognition
 - Translate a message to another language
 - Use sentiment analysis to analyze a sentence/phrase
+- More features will be added to this Discord bot in the future
 
 ## Credits
 Made in collaboration with Joey Ma, Neien Wei, David Cho, and Eric Liu
